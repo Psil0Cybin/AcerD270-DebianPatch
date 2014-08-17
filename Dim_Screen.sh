@@ -1,3 +1,5 @@
+#IMPORTANT UPDATE: if you do not want to use my script upgrade your kernel to 3.14-0.bpo.2-686-pae 
+#IMPORTANT UPDATE: this is located in debian wheezy backports. add it to your sourcelist.
 #grub settings did not work, no biggie this will.
 echo "=================================================="
 echo "patch by psil0cybin"
